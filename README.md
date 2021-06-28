@@ -1,9 +1,15 @@
 # Github Flavoured Markdown 
 
-
+List 
+- [x] External Link 
+- [x] Internal Link
+- [x] Images 
+- [x] Emojis
+- [x] Tables
+ 
 ## External Link 
 
-- [x] External Link 
+
 
 [github Documentation]( https://help.github.com/en)
 
@@ -11,7 +17,7 @@
 ## Internal Link 
 
 
-- [x] Internal Link
+
 ## Images 
 
 - [x] Images
@@ -21,7 +27,7 @@
 
 ## Emojis
 
-- [x] Emojis
+
 
 I like Basketball ⛹️
 
@@ -34,7 +40,6 @@ I like Basketball ⛹️
 
 
 
-- [x] Tables
 
 
 
