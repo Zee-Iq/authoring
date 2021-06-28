@@ -11,7 +11,6 @@
 ## Internal Link 
 
 
-
 - [x] Internal Link
 ## Images 
 
@@ -27,6 +26,13 @@
 I like Basketball ⛹️
 
 ## Tables
+|Colum1 Header|Column2 Header|
+|----|-----|
+|item 1|item2|
+|item 1|item2|
+|item 1|item2|
+
+
 
 - [x] Tables
 
